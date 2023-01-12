@@ -45,8 +45,22 @@
         #views
         "views/student.xml",
 
+        #Teacher
+        "views/teacher.xml",
+
+        #Section
+        "views/section.xml",
+
+        #Course
+        "views/course.xml",
+
+        #Registration
+        "views/registration.xml",
+
         #menu
-        "views/menu.xml"
+        "views/menu.xml",
+
+
     ],
 
     #only loaded in demonstration mods
